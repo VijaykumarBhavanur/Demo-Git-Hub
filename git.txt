@@ -1,1 +1,1 @@
-This is git-hub file!
+This file demonstrates usage of GitHub
